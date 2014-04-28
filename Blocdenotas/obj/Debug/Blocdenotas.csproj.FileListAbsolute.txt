@@ -16,3 +16,7 @@ F:\Documents\Visual Studio 2013\Projects\BlocDeNotas\Blocdenotas\obj\Debug\Blocd
 F:\Documents\Visual Studio 2013\Projects\BlocDeNotas\Blocdenotas\obj\Debug\Blocdenotas.Form1.resources
 F:\Documents\Visual Studio 2013\Projects\BlocDeNotas\Blocdenotas\obj\Debug\Blocdenotas.Properties.Resources.resources
 F:\Documents\Visual Studio 2013\Projects\BlocDeNotas\Blocdenotas\obj\Debug\Blocdenotas.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2013\Projects\BlocDeNotas\Blocdenotas\bin\Debug\Blocdenotas.exe.manifest
+F:\Documents\Visual Studio 2013\Projects\BlocDeNotas\Blocdenotas\bin\Debug\Blocdenotas.application
+F:\Documents\Visual Studio 2013\Projects\BlocDeNotas\Blocdenotas\obj\Debug\Blocdenotas.exe.manifest
+F:\Documents\Visual Studio 2013\Projects\BlocDeNotas\Blocdenotas\obj\Debug\Blocdenotas.application

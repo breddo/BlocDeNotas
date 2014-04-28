@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos atributos para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("Blocdenotas")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Notepad isp20")]
+[assembly: AssemblyDescription("Simple notepad")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Blocdenotas")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("Smooth Softs")]
+[assembly: AssemblyProduct("Notepad isp20")]
+[assembly: AssemblyCopyright("Copyright ©  2014 Smooth Softs")]
+[assembly: AssemblyTrademark("Smooth Softs")]
 [assembly: AssemblyCulture("")]
 
 // Si establece ComVisible como false, los tipos de este ensamblado no estarán visibles 
